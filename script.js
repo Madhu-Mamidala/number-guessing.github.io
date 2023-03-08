@@ -20,7 +20,7 @@ const imgIncorrectRandom = Math.floor(Math.random() * 10 + 1)
 
 
 //Giving directory Incorrect
-const imgDir = `../assets/incorrect/img-${imgIncorrectRandom}.gif`
+const imgDir = `../assets/Incorrect/img-${imgIncorrectRandom}.gif`
 
 
 //correct img random
